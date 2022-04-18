@@ -137,6 +137,7 @@ aside > h1{
 }
 ul{
   list-style: none;
+  text-align: left;
   columns: 2;
   
 }
