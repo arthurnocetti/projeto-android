@@ -68,6 +68,7 @@ main > h1{
     font-family: android;
     color: #246340;
     text-align: left;
+    margin: auto;
 
 }
 main p{
@@ -106,6 +107,7 @@ strong{
     color: #246340;
     background-image: linear-gradient(to right, #86E5B0, #A4EBC2, #C3F1D5, #E2F9EB, white);
     text-indent: 8px;
+    margin: auto;
 }
 
 .video{
